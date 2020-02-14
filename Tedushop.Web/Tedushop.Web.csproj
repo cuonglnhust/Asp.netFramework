@@ -205,10 +205,6 @@
       <Project>{1bbd1a9f-a29c-475d-b481-a323fce2eeff}</Project>
       <Name>Tedushop.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Tedushop.Data\Tedushop.Data.csproj">
-      <Project>{6dc10e82-2167-4035-b5ce-e190518f3476}</Project>
-      <Name>Tedushop.Data</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Tedushop.Model\Tedushop.Model.csproj">
       <Project>{d993890b-c25b-4eca-830c-85623cb9ee4e}</Project>
       <Name>Tedushop.Model</Name>
